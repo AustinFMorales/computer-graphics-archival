@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 528a7d9c5224870459157b7417d83637
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mcDropdown: {instanceID: 0}
+  - creationSphere: {fileID: 2477320255482218385, guid: d9462909ea68c3340a7808dc213e914b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
